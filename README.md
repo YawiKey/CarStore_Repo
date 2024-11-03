@@ -12,4 +12,4 @@ Problem 01 : Non Compatible frameworks between the Class Library and Console App
 Problem 02: missing using a directuve or an assembly reference Error 
   Description: When doing the instance of the ClassLibrary in the Console App it still showed an error , ignoring the previous "Show posible fixes" - " Add reference to" option selected
   Solution: 
-    a) VALID SOLUTION: manually write "using CarClassLibrary" at the top of the ConsoleApp class
+    a) VALID SOLUTION: manually write "using CarClassLibrary" at the top of the ConsoleApp class 
