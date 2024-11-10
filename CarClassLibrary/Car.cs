@@ -27,5 +27,10 @@
             this.Price = c;
         }
 
+        //Override - Full Car class string
+        override public string ToString()
+        {
+            return "Make: " + Make + ",Model: " + Model + ",Price: $" + Price;
+        }
     }
 }
